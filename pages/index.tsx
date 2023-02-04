@@ -9,9 +9,9 @@ export default function Home() {
       <NextSeo
         title="XeNo.NFT: Portfolio"
         description="Welcome to XeNo's Portfolio."
-        canonical="https://nine4-2.vercel.app/"
+        canonical="https://xeno-nft-port.vercel.app/"
         openGraph={{
-          url: "https://nine4-2.vercel.app/",
+          url: "https://xeno-nft-port.vercel.app/",
         }}
       />
       <Head>
