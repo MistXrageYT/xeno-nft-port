@@ -8,7 +8,7 @@ This Portfolio website made for XeNo.NFT by [MistX Rage](https://youtube.com/@Mi
 
 
 
-# Hi, I'm MistX Rage aka Sohan Rajput! 👋
+# Hi, I'm MistX Rage! 👋
 
 I'm a just beginner developer...
 
